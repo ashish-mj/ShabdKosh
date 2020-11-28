@@ -1,0 +1,54 @@
+.box{
+    background-color: white;
+    padding-left: 10px;
+    margin-bottom: -40px;
+    margin-top: -15px;
+    color: #22211F;
+}
+.logo{
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin-bottom: 5px;
+}
+h1{
+display: block;
+padding-left: 70px;
+padding-top: 10px;
+}
+.feature{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)),url(../images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.name{
+    float: right;
+    margin-top: -70px;
+    padding-right: 10px;
+}
+.mic:link,
+.mic:visited{
+    margin-left: 500px;
+    padding-top: 500px;
+ 
+}
+.mic-img{
+    width: 20%;
+    padding-top: 180px;
+    margin-left: -120px;
+}
+.display{
+    text-align: center;
+}
+.intro,.help{
+    float: right;
+    width:10%;
+    height: 10%;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.help{
+    float: left;
+    padding-left: 10px;
+}

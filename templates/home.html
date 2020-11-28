@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>ShabdKosh</title>
+    <link rel="stylesheet" href="../static/css/normalize.css">
+    <link rel="stylesheet" href="../static/css/grid.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link rel="icon" href="../static/images/dictionary.png" type="image/jpg">
+  </head>
+  <body>
+      <div class="row">
+       <div class="box">
+           <img alt="logo" class="logo" src="../static/images/dictionary.png">
+            <h1>ShabdKosh</h1> 
+           <div class="row">
+            <h1 class="name">ASHISH M J</h1>
+            </div>
+          </div>
+      </div>
+      <section class="feature">
+          <div class="row">
+              <a href="{{url_for('help')}}"><img src="../static/images/information.png" class="help"></a>
+              <a href="{{url_for('speak')}}" class="mic"><img src="../static/images/mic.png" class="mic-img"></a>
+              <a href="{{url_for('play_audio')}}"><img src="../static/images/intro.png" class="intro"></a>
+          </div>
+      </section>
+  </body>
+</html>
