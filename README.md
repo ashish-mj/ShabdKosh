@@ -19,20 +19,19 @@ Back-End : gTTS,speech_recognition, Flask
 
 ## Demo
 
-About Kapsi
-https://drive.google.com/file/d/195ZHi_QDFi1FBkb7fLRIkl1-OhUUf4fy/view?usp=sharing
+https://user-images.githubusercontent.com/73954439/102863174-3613a500-4458-11eb-8fd2-8d1f1939d2db.mp4
 
-Help
-https://drive.google.com/file/d/1PBE1_kMvL6blFDFPcFrOL0BzkKL09bnI/view?usp=sharing
 
-Meaning of a word
-https://drive.google.com/file/d/1Ory3n6yYhMDwM0rxqFczkm-7oGClUNUK/view?usp=sharing
+https://user-images.githubusercontent.com/73954439/102863231-49bf0b80-4458-11eb-9303-695af8d4ef46.mp4
 
-Antonym of a word
-https://drive.google.com/file/d/1eCJvhsRgqdJFX1U-8zMsMMlcNZ64Dj4s/view?usp=sharing
 
-Translate a word
-https://drive.google.com/file/d/1us0SbD7jv2Cobqx3CR1b72f3MN7FbIaA/view?usp=sharing
+https://user-images.githubusercontent.com/73954439/102863248-50e61980-4458-11eb-8d08-b2ae344f2268.mp4
 
-Error
-https://drive.google.com/file/d/1ZLJ0JTz77Fp7TGYrVfHs8XIVj8PYTdG2/view?usp=sharing
+
+https://user-images.githubusercontent.com/73954439/102863255-53e10a00-4458-11eb-92e6-bed1d2aa938e.mp4
+
+
+https://user-images.githubusercontent.com/73954439/102863260-55aacd80-4458-11eb-9ec4-a36e69de29a4.mp4
+
+
+https://user-images.githubusercontent.com/73954439/102863265-580d2780-4458-11eb-8c08-42ab5812fce5.mp4
